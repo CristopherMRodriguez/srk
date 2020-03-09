@@ -104,8 +104,8 @@
 
       <div class="portfolio">
 
-       <!--Portfolio Image 1-->
-       <div class="portfolio">
+      <!--Portfolio Image 1-->
+
         <a class="portfolio__item">
           <img src="img/advertisements/abcd.jpg" alt="" class="portfolio__img first">
         </a>

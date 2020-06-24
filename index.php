@@ -57,27 +57,27 @@
 
         <div class="service">
           <h3>Logos and Identities</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <p>If you need an original logo or identity I have vast experience with creating original, unique trademarks for companies that require a fresh identity.</p>
         </div>
 
         <div class="service">
           <h3>Advertisements</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <p>There's nothing like an attention grabbing message to capture your customer's attention with your brand. My advertising experience will help sell your product with a style that sets itself apart.</p>
         </div>
 
         <div class="service">
           <h3>Packaging & Labels</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <p>Once your product is ready to go, I will give it that professional feel that sets it apart as unique.  With a bit of flair, your product will have a beautiful touch added to it that gives it the sparkling gleam it deserves.</p>
         </div>
 
         <div class="service">
           <h3>Illustrations</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <p>My expertise in creating artwork for you goes into all the fine details.  If you are stuck for ideas or just need a hand, my illustrative skills will have you covered.</p>
         </div>
 
         <div class="service">
           <h3>Photo Retouching</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <p>Need a little sprucing for your photos from the big day?  My graphic editing skills will give your photos an edge.  I also do in depth editing as well.</p>
         </div>
 
       </div>
@@ -90,8 +90,8 @@
     <section class="about-me" id="about">
       <h2 class="section__title section__title--about">Who I Am</h2>
       <p class="section__subtitle section__subtitle--about">Graphic designer based out of NYC</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        <p>Hello.  I am Scott Krontilik, lead designer for SRK Designer.  My long experience working with popular brands and advertisements has given me a clear and proven track record delivering visually appealing graphics for clients.</p>
+        <p>When I am not sharing my graphic design skills and advertising insights for my clients, I enjoy spending time in nature with my 2 boys.  I look forward to hearing about getting your brand out there!</p>
 
         <img src="img/scott.jpg" alt="Scott" class="about-me__img">
 
@@ -146,7 +146,7 @@
     </section>
 
     <footer class="footer">
-      <a href="mailto:hello@srk.com" class="footer__link">hello@srk.com</a>
+      <a href="mailto:hello@srk.com" class="footer__link">hello@srkgraphicdesign.com</a>
      
       <ul class="social-list">
         
